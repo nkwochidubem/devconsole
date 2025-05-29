@@ -1,4 +1,4 @@
 variable "public_key" {
   type    = string
-  default = "/mnt/workspace/id_rsa.pub"
+  default = "/Users/apple/.ssh/id_rsa.pub"
 }
